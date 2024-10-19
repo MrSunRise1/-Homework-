@@ -16,7 +16,7 @@ if confirmation == 'Да' or confirmation == 'да' or confirmation == 'ДА' :
             elif my_list[first] == 0 :
                 first = first + 1
                 continue
-            else:
+      else:
                 break
 else:
     print ("До свидания!")
